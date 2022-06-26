@@ -1,0 +1,48 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: black;
+
+}
+.main{
+    margin: 0 auto;
+    width: 700px;
+    height: 800px;
+    background-color: white;
+}
+
+h1{
+margin: 0 25px 0;
+font-size: 25px;
+}
+h2{
+    margin: 20px 25px ;
+    font-size: 15px;
+}
+p{
+    margin: 20px 25px ;
+    font-size: 13px;
+    color: gray;
+}
+img{
+   height: 400px;
+   width: 650px;
+   display: block;
+   margin: 0 auto;
+}
+.btn {
+    border-radius: 5px;
+    font-size: 15px;
+    color: white;
+    height: 50px;
+    width: 150px;
+    background-color: #76b8e4;
+    margin-left: 10%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.btn:hover{
+background-color: white;
+color: black;
+}
